@@ -1,2 +1,3 @@
 def league_points(wins, draws, losses):
-    # write your solution here
+  ...
+  # write your solution here
