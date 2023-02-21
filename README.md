@@ -15,3 +15,5 @@ league_points(5, 0, 2) ➞ 15
 
 league_points(0, 0, 1) ➞ 0
 ```
+
+[Start Problem](https://replit.com/team/whs-spring-2023/League-Points)
